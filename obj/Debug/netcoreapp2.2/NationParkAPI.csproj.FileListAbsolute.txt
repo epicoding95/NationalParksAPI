@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/NationParkAPI/bin/Debug/netcoreapp2.2/NationParkAPI.deps.json
+/Users/Guest/Desktop/NationParkAPI/bin/Debug/netcoreapp2.2/NationParkAPI.runtimeconfig.json
+/Users/Guest/Desktop/NationParkAPI/bin/Debug/netcoreapp2.2/NationParkAPI.runtimeconfig.dev.json
+/Users/Guest/Desktop/NationParkAPI/bin/Debug/netcoreapp2.2/NationParkAPI.dll
+/Users/Guest/Desktop/NationParkAPI/bin/Debug/netcoreapp2.2/NationParkAPI.pdb
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.csprojAssemblyReference.cache
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.AssemblyInfo.cs
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.dll
+/Users/Guest/Desktop/NationParkAPI/obj/Debug/netcoreapp2.2/NationParkAPI.pdb
